@@ -10,8 +10,8 @@
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
+      "city": "Munich",
+      "state": "Bavaria",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
